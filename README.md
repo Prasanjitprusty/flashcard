@@ -4,7 +4,7 @@ This is a frontend Capstone project given by the Almabetter which is Flashcard G
 
 ## Deployment
 
-[Click Here](https://flashcard-generator-project.vercel.app/) to see my flashcard generator website.
+[Click Here](https://flashcard12.netlify.app/) to see my flashcard generator website.
 
 ## Run Locally
 
@@ -22,7 +22,7 @@ Start the server
 
 ## Authors
 
-- [@Mayuri khobragade](https://github.com/mayuri2920)
+- [Prasanjit Prusty](https://github.com/Prasanjitprusty/flashcard.git)
 
 
 ## Tech Stack
@@ -49,7 +49,7 @@ This project is created with mainly React js, In this project mainly we have thr
 
 ## How To Use
 
-1) Open the flashcard generator [Click Here](https://flashcard-generator-project.vercel.app/)
+1) Open the flashcard generator [Click Here](https://flashcard12.netlify.app/)
 
 2) Fill up all the input boxes without any Errors and click on the "Create" button.
 
